@@ -3,8 +3,8 @@ API REST CRUD for Users
 
 - **Java JDK** `18.0.2` - _Kit de desarrollo para programación en Java._
 - **Spring Framework** `2.7.1` - _Framework base para la generación de la API REST._
-- **Swagger** `2.1.2` - _Framework para generar documentación de la API REST._
-- **JPA** `2.7.1` - _Framework para la manipulacion de datos en base de datos._
+- **Swagger** `2.1.2` - _Biblioteca para generar documentación de la API REST._
+- **JPA** `2.7.1` - _Biblioteca para la manipulacion de datos en base de datos._
 - **Lombok** `1.18.24` - _Biblioteca para la facilitación de codigo como getters/setters, equals, constructores, etc._
 - **MySQL Connector** `8.0.29` - _Biblioteca para la conectividad con la base de datos._
 
